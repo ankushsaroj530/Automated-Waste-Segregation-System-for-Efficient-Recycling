@@ -100,17 +100,16 @@ If the waste is neither wet nor metal, it is categorized as dry waste by default
 3. Power the system  
 4. Test using different types of waste  
 
----
-
-##  Project Images
-_Add images or screenshots of your project here_
-
----
 
 ##  Demo
-_Add project demo video link here_
+## 📷 Project Images
 
----
+![Img1](./Img1.jpeg)
+![Img2](./Img2.jpeg)
+
+## 📽️ Demo Video
+
+[▶️ Watch Video](./Video1.mp4)
 
 ##  Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
